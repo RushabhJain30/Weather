@@ -92,4 +92,4 @@ Speed up the prototyping process
 Learn better coding practices
 Focus more on creative problem solving and UX
 
-Made by Rushabh Jain, Harsh Tiwari, Riddhvesh Dixit❤️
+Made with ❤️ by Rushabh Jain, Harsh Tiwari, Riddhvesh Dixit
