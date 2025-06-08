@@ -40,7 +40,6 @@ Backend:
 
 Other Tools:
 - Netlify (frontend hosting)
-- Render / Railway (backend hosting)
 
 📁 weather/
 ├── public/                   
