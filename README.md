@@ -49,12 +49,14 @@ Other Tools:
 │   │   ├── DailyForecast.tsx
 │   │   ├── HourlyForecast.tsx
 │   │   └── WeatherIcon.tsx
+
 │   ├── services/             
 │   │   └── weatherApi.ts
 │   ├── App.tsx               
 │   ├── index.css             
 │   ├── main.tsx             
-│   └── vite-env.d.ts        
+│   └── vite-env.d.ts  
+
 ├── .gitignore               
 ├── index.html             
 ├── README.md               
@@ -67,6 +69,7 @@ Other Tools:
 ├── tsconfig.node.json         
 ├── vite.config.ts             
 ├── eslint.config.js           
+
 
 
 
@@ -88,3 +91,5 @@ This hybrid approach of AI-assisted development + manual customization helped us
 Speed up the prototyping process
 Learn better coding practices
 Focus more on creative problem solving and UX
+
+Made by Rushabh Jain, Harsh Tiwari, Riddhvesh Dixit❤️
